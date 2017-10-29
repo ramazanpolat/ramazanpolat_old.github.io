@@ -1,0 +1,13 @@
+---
+hide_body: false
+fields:
+- type: textarea
+  name: posttextarea
+  label: postTextArea
+  description: The content of the post
+  config:
+    wysiwyg: true
+- type: tag_list
+  name: tags
+  label: tags
+  description: add tags
