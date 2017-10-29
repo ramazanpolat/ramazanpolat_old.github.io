@@ -1,8 +1,9 @@
 ---
-layout: page
 title: About
-tags: [about]
-date: 2017-10-29
+date: 2017-10-29 00:00:00 Z
+layout: page
+tags:
+- about
 ---
 
 ![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)

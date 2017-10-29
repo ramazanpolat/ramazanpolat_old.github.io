@@ -1,6 +1,6 @@
 ---
 title: 'Clickhouse tips & tricks: Query logging'
-date: 2017-10-29 03:00:00 +0300
+date: 2017-10-29 00:00:00 Z
 layout: post
 ---
 

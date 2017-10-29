@@ -1,13 +1,14 @@
 ---
-layout: post
 title: MIPS Nedir
-date: 2012-05-22 00:00:00 +0000
-excerpt: Mips ve assembly kodları giriş.
+date: 2012-05-22 00:00:00 Z
 tags:
 - sample post
 - readability
 - test
+layout: post
+excerpt: Mips ve assembly kodları giriş.
 ---
+
 # **Mips Nedir Deneme?**
 
 MIPS **İndirgenmiş Komut Kümesi** türü bir mikroişlemci mimarisidir. MIPS Teknolojileri adlı firma tarafından üretilmiştir. Her komut aynı boydadır. Bu da komutların bilgisayar donanımı tarafından kolay çözülmesini sağlar.

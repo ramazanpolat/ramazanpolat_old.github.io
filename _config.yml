@@ -1,75 +1,36 @@
-# Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
-picture:        'assets/img/profile.png'
-locale:         en_US
-url:            https://ramazanpolat.github.io
-
-
-# Jekyll
-permalink:      /:title/
-markdown:       kramdown
-highlighter:    rouge
+---
+title: Ramazanpolat.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Ramazan Polat
+description: IT Solution Architect (fancier name than developer)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+footer-links: 
+disqus: 
+google_analytics: 
+url: 
+baseurl: 
+permalink: "/:title/"
+version: v1.2.0
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
 sass:
-  sass_dir: _sass
-  style: compressed
-
-# Social
-# if you don't have any of social below, comment the line.
-#email:
-twitter: username
-facebook: username
-#google:
-  #plus: #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
-#xing: username
-instagram: username
-lastfm: username
-tumblr: username
-#pinterest: username
-#foursquare: username
-steam: username
-#dribbble: username
-youtube: username
-#soundcloud: username
-#weibo: username
-#flickr: username
-#codepen: username
-
-# Paginate
-# if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
-
-
-# Comments
-disqus_shortname: 
-
-
-# Gems
+  style: expanded
 gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-paginate
-
-jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+- jekyll-sitemap
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- CNAME

@@ -1,9 +1,12 @@
 ---
+title: A Post with Images
+date: 2013-05-22 00:00:00 Z
+tags:
+- sample post
+- images
+- test
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
-excerpt: "Examples and code for displaying images in posts."
-tags: [sample post, images, test]
+excerpt: Examples and code for displaying images in posts.
 ---
 
 Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.

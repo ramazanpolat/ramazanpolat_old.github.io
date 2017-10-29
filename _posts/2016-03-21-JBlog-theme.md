@@ -1,16 +1,16 @@
 ---
-layout: post
-title:  "JBlog Jekyll Theme"
-image: "http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png"
-date:   2016-03-21
-excerpt: "Simple Jekyll theme for your blog by Alperen Bozkurt."
-project: true
-tag:
+title: JBlog Jekyll Theme
+date: 2016-03-21 00:00:00 Z
+tags:
 - jekyll
 - JBlog
 - blog
 - about
 - theme
+layout: post
+image: http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png
+excerpt: Simple Jekyll theme for your blog by Alperen Bozkurt.
+project: true
 ---
 
 ![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
