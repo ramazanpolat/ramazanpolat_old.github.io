@@ -1,5 +1,5 @@
 ---
-title: 'Clickhouse tips & tricks: Using disk if memory is not enough(spill to disk)'
+title: 'Clickhouse: Using disk if memory is not enough(spill to disk)'
 date: 2017-10-29 22:17:00 Z
 categories:
 - clickhouse
