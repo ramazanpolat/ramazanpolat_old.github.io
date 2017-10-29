@@ -7,12 +7,6 @@ tags:
 - node.js
 ---
 
----
-title: How node.js modules are loaded
-date: 2017-10-28 00:00:00 Z
-layout: post
----
-
 Have you ever though how node.js modules are loaded? For example, if you are requiring same module in lots of different places, does node.js load it every time you require it? 
 
 !Let's find out.
