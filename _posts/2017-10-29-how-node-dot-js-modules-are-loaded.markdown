@@ -40,7 +40,7 @@ console.log('dummy module is ',dummy)
 console.log('end of index.js')
 ```
 
-We have just 3 lines in index.js file. Now if we start index.js with node:
+We have just 4 lines in index.js file. Now if we start index.js with node:
 
 ```bash
 $ node index.js
