@@ -1,6 +1,7 @@
 ---
 title: Understanding Javascript this keyword by experimenting
 date: 2017-10-29 22:32:00 Z
+comments: true
 tags:
 - javascript
 ---
