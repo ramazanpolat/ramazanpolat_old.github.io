@@ -6,6 +6,7 @@ tags:
 - readability
 - test
 layout: post
+comments: true
 excerpt: Mips ve assembly kodları giriş.
 ---
 
